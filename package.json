@@ -1,0 +1,18 @@
+{
+  "name": "max7219",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.2",
+    "johnny-five": "^2.0.0",
+    "max7219-display": "^2.0.1",
+    "yahoo-stock-prices": "^1.1.0"
+  }
+}
